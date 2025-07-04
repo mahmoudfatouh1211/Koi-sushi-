@@ -1,2 +1,3 @@
-# Koi-sushi-
-Koi Sushi full mobile and backend project
+# KOI Sushi Project
+
+تعليمات التثبيت وتشغيل المشروع
